@@ -1,5 +1,5 @@
-# glWolf
-Greenland wolf and dog genetics
+# allWolf
+Wolf and dog genetics
 
 ## Samples, tag names and common names
 This following table puts the tag names - used in the google spreadsheet - together with the common name that we use to identify the sample.
